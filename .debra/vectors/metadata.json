@@ -1,0 +1,41 @@
+{
+  "indexedAt": "2026-02-10T04:41:09.951Z",
+  "totalFiles": 200,
+  "totalChunks": 2116,
+  "totalLessons": 120,
+  "domains": {
+    "auth": 1011,
+    "cart": 99,
+    "other": 10,
+    "products": 318,
+    "oc": 87,
+    "ui": 53,
+    "home": 211,
+    "quotes": 168,
+    "users": 13,
+    "email": 67,
+    "customers": 17,
+    "projects": 13,
+    "tester": 8,
+    "general": 18,
+    "backend": 11,
+    "clients": 12
+  },
+  "types": {
+    "other": 670,
+    "hook": 9,
+    "store": 11,
+    "component": 86,
+    "type": 120,
+    "screen": 839,
+    "service": 146,
+    "util": 115,
+    "lesson": 120
+  },
+  "graphNodes": 624,
+  "graphEdges": 1270,
+  "ollamaEnabled": true,
+  "falkorEnabled": true,
+  "tsCompilerEnabled": true,
+  "graphMode": "ast"
+}

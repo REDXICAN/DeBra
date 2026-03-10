@@ -1,0 +1,21 @@
+node_modules/
+dist/
+
+# DeBra data (large files - keep locally, don't commit)
+.debra/vectors/vectors.json
+.debra/vectors/cache.json
+.debra/session/
+.debra/logs/
+
+# Prompt index is auto-generated
+prompts/_index.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
